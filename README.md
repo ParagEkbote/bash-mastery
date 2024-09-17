@@ -11,6 +11,7 @@ torch numpy transformers datasets accelerate peft trl huggingface_hub bitsandbyt
 
 Execute the script by writing the following commands in your terminal:
 
-chmod +x install_libraries.sh
-./install_libraries.sh
+1) chmod +x install_libraries.sh
+
+2) ./install_libraries.sh
 
