@@ -1,10 +1,13 @@
 # Install_ML_Libraries
 
 ## Intro
-The install_libraries.sh contains all the necessary needed for a typical ml workflow using huggingface.
-The following libraries will get installed:
+The install_libraries.sh contains all the necessary needed for a ml project using huggingface.
 
-torch,numpy,transformers,datasets,accelerate,peft,trl,huggingface_hub,bitsandbytes,matplotlib,scipy
+The main motivation of this script is to reduce the bugs experienced when using huggingface libraries such as transformers and trl.
+
+Note: The following libraries will get installed directly from their build source:
+
+torch,numpy,transformers,datasets,accelerate,peft,trl,huggingface_hub,bitsandbytes,matplotlib and scipy.
 
 
 ## Steps
