@@ -9,10 +9,10 @@ sudo apt-get install -y python3 python3-pip
 
 # Install the required Python libraries from GitHub or PyPI
 
-# PyTorch (install latest stable version from PyPI, GitHub install not typically used)
+# PyTorch ( latest stable version from PyPI)
 pip install --upgrade torch
 
-# Install Hugging Face libraries (from GitHub for latest features)
+# Install Hugging Face libraries (from GitHub)
 
 # Transformers
 pip install --upgrade git+https://github.com/huggingface/transformers
@@ -23,22 +23,22 @@ pip install --upgrade git+https://github.com/huggingface/datasets
 # Accelerate
 pip install --upgrade git+https://github.com/huggingface/accelerate
 
-# PEFT (if hosted on GitHub; adjust URL if necessary)
+# PEFT
 pip install --upgrade git+https://github.com/huggingface/peft
 
-# TRL (if hosted on GitHub; adjust URL if necessary)
+# TRL 
 pip install --upgrade git+https://github.com/huggingface/trl
 
 # Hugging Face Hub
 pip install --upgrade huggingface_hub
 
-# BitsAndBytes (official GitHub URL)
+# BitsAndBytes 
 pip install --upgrade git+https://github.com/TimDettmers/bitsandbytes
 
-# Matplotlib (install latest stable version from PyPI)
+# Matplotlib 
 pip install --upgrade matplotlib
 
-# SciPy (official GitHub URL for latest version)
+# SciPy 
 pip install --upgrade git+https://github.com/scipy/scipy
 
 # Verify installation
