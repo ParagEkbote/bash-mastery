@@ -18,3 +18,7 @@ Execute the script by writing the following commands in your terminal:
 1) chmod +x install_libraries.sh
 
 2) ./install_libraries.sh
+
+## Future:
+
+Several useful scripts related to OS operations will be added to ease developer experience.
