@@ -1,5 +1,5 @@
 
-# EasyInstall
+This project is being refactored and can be considered as W.I.P.
 
 ## Intro
 
