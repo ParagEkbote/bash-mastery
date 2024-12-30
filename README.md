@@ -5,7 +5,7 @@ Bash Mastery is a personal project designed to provide a structured approach to 
 
 ---
 
-## **Objectives **  
+## **Objectives**  
 
 ### **1. Debugging and Optimization**  
 - Focus on writing clean, maintainable, and efficient bash code.  
